@@ -8,7 +8,6 @@ git clone https://github.com/viniciusSimizu/terminal-hangman-game.git
 ```bash
 cd terminal-hangman-game
 ```
----
 
 ### Python 3.10.x+
 ```bash
